@@ -11,4 +11,4 @@ er8877/er8877 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 Hi I'm Erfan Hosseini and I've been programming for about 3 years. I know Python in professional level, Html, Css, Mysql, Ai, DataScience.
-I won 3 medals for 3 world competions in countries such as Turkey 1Idea1World, America Challenges, Switzerland IFIA INV membership.
+I won 3 medals for 3 world competitons in countries such as Turkey 1Idea1World, America Challenges, Switzerland IFIA INV membership.
